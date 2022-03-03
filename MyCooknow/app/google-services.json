@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039314932428",
+    "project_id": "mycooknow",
+    "storage_bucket": "mycooknow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039314932428:android:faa86a65e695fe2b642869",
+        "android_client_info": {
+          "package_name": "com.example.mycooknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039314932428-ea2u9negdr8v9rv226m2c3e10io279fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlqLr8_vrjRtI_MxgeLWIeUvtHaOAVdUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039314932428-ea2u9negdr8v9rv226m2c3e10io279fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,762 @@
+<resources>
+    <string name="app_name">MyCooknow</string>
+
+
+    <string name="t1">
+        Adobong Manok
+    </string>
+    <string name="e1">"2lbs chicken cut into serving pieces
+3pcs dried bay leaves
+8tbsp soy sauce
+4tbsp white vinegar
+5cloves garlic crushed
+1and ½ cups water
+3tbsp cooking oil
+1tsp sugar
+1/4tsp salt (optional)
+1tsp whole peppercorn"
+    </string>
+    <string name="tr">
+        Combine chicken, soy sauce, and garlic in a large bowl. Mix well\n
+        Marinate the chicken for at least 1 hour. (Note: the longer the time, the better)\n
+        Heat a cooking pot. Pour cooking oil\n
+        When the oil is hot enough, pan-fry the marinated chicken for 2 minutes per side\n
+        Pour-in the remaining marinade, including garlic. Add water. Bring to a boil\n
+        Add dried bay leaves and whole peppercorn. Simmer for 30 minutes or until the chicken gets tender\n
+        Add vinegar. Stir and cook for 10 minutes\n
+        Put-in the sugar, and salt. Stir and turn the heat off. Serve hot\n
+    </string>
+
+
+    <string name="b">
+        Tinolang Manok
+    </string>
+    <string name="b1">
+"1whole chicken, cut into serving pieces
+1/2pc small green papaya, cut into wedges
+1tbsp garlic, chopped
+1medium-sized onion, chopped
+1ginger, sliced
+1chicken broth cube
+36oz rice washing
+2tbsp fish sauce
+3tbsp oil
+hot pepper leaves
+salt and pepper"
+    </string>
+
+    <string name="b2">
+        Sauté the ginger, onion and garlic\n
+Put-in the chicken and cook until color turns light brown\n
+Pour-in the rice washing and fish sauce. Mix well and simmer for 45 minutes\n
+Add the green papaya wedges and simmer for another 5 minutes\n
+Finally, add salt, pepper, chicken broth cube and hot pepper leaves\n
+Serve hot and enjoy\n
+    </string>
+
+
+    <!--> END </!-->
+
+    <string name="c">
+        Afritadang Manok
+    </string>
+    <string name="c1">
+"1and ½ lbs chicken cut into serving pieces
+2pcs potato cubed
+1pc carrot sliced
+8oz tomato sauce
+3pcs hotdog sliced
+1/2cup green peas
+3pcs bay leaves
+1pc red onion chopped
+2tsp garlic minced
+3cups chicken broth
+1/2tsp sugar
+3tbsp cooking oil
+salt and ground black pepper to taste"
+    </string>
+    <string name="c2">
+Heat the oil in a cooking pot. Saute onion and garlic until the onion softens\n
+Add chicken. Cook for 30 seconds. Turn it over and cook the other side for another 30 seconds\n
+Pour tomato sauce and chicken broth. Cover. Let boil\n
+Add dried bay leaves. Cover the cooking pot. Continue to cook in medium heat for 30 minutes\n
+Add hotdogs and carrot. Cook for 3 minutes\n
+Add potato. Cover the pot and cook for 8 minutes\n
+Add green peas. Cook for 2 minutes\n
+Season with salt and ground black pepper\n
+Serve\n
+    </string>
+
+
+    <string name="d">
+        Creamy Chicken Pastel
+    </string>
+    <string name="d1">
+"2lbs chicken breast cut into cubes
+1pc Knorr Chicken Cube
+1pc Chorizo de Bilbao sliced
+4pcs hotdogs sliced
+1pcs potato cubed
+1pc carrot sliced
+1pc red bell pepper sliced
+1pc green bell pepper sliced
+3/4cup button mushroom sliced
+15oz all-purpose cream
+1/4cup soy sauce
+1pc lime
+1pc onion chopped
+4cloves garlic minced
+3/4cup water
+salt and ground black pepper to taste"
+    </string>
+    <string name="d2">
+Combine chicken, soy sauce, and lime in a large bowl. Mix well. Marinate chicken for at least 30 minutes\n
+Heat oil in a cooking pot. Saute onion and garlic\n
+Once the onion softens, add the chorizo. Saute for 1 minute\n
+Put chicken into the pot. Saute until the color turns light brown\n
+Add water. Let boil\n
+Add Knorr Chicken Cube. Stir. Cover and continue to cook for 20 minutes\n
+Put the sliced hotdogs into the pot. Cook in medium heat until the liquid reduces to half\n
+Add potato and carrot. Pour-in all-purpose cream. Cover and cook for 8 minutes\n
+Stir-in the mushroom and bell peppers. Stir. Cook for 3 minutes\n
+Season with ground black pepper and salt\n
+Transfer to a serving plate. Serve with warm rice. Share and enjoy\n
+    </string>
+
+
+    <string name="f">
+    Asadong Manok
+</string>
+    <string name="f1">
+"2lbs chicken cut into serving pieces
+1/4cup lemon juice
+2tbsp soy sauce
+1/4cup butter
+1and ½ cup of tomato sauce
+1large onion diced
+2pcs dried bay leaves
+2large potatoes quartered
+1/2tsp salt
+1/2tsp ground black pepper
+3/4cup cooking oil"
+    </string>
+    <string name="f2">
+        Rub the chicken with salt and pepper and let stand for at least 30 minutes\n
+Heat a frying pan then pour-in the cooking oil and Pan Fry the chicken. Set aside\n
+Heat a cooking pot or wok then put-in the butter\n
+When the butter is hot enough, add the onions and sauté until the texture becomes soft\n
+Add-in the bay leaves and cook for a minute\n
+Pour-in the tomato sauce and bring to a boil\n
+Add the soy sauce and lemon juice then stir to ensure that the mixture is properly distributed and simmer for 5 to 7 minutes\n
+Add the pan-fried chicken and simmer for 10 minutes\n
+Place the potatoes in and continue to simmer for 7 to 12 minutes\n
+Turn off the heat then transfer to a serving plate and serve\n
+Share and enjoy\n
+    </string>
+
+    <!-->  </!-->
+
+
+    <string name="g">Chicken Sopas</string>
+
+    <string name="g1">
+"12oz chicken breasts boneless
+1/2pc cabbage sliced
+3stalks celery chopped
+1pc onion diced
+3pcs hotdog sliced
+3/4cups carrots diced
+12oz evaporated milk
+1and ½ cups elbow macaroni
+2tsp minced garlic
+1pc Knorr Chicken Cube
+6to 8 cups water
+3tbsp cooking oil
+salt and ground black pepper to taste"
+</string>
+    <string name="g2">
+Boil 3 cups water in a medium pot. Add the chicken breasts\n
+Cover and cook in medium heat for 15 to 18 minutes. You may add more water if needed\n
+Separate the chicken from the water. Let the chicken cool down and then shred. Set both shredded chicken and water aside\n
+Heat oil in a large soup pot. Sauté the garlic until it turns medium brown. Add onion, celery, and carrot. Continue to sauté for 2 to 3 minutes\n
+Add the shredded chicken. Stir and cook for 1 minute\n
+Add the hot dog. Quickly stir and then pour the water used to boil the chicken. Also pour the remaining water. Let boil\n
+Add the Knorr Chicken Cube. Stir. Cover and cook for 3 to 5 minutes\n
+Put the elbow macaroni in the pot. Cook for 10 minutes\n
+Add the cabbage. Stir and cook for 3 to 5 minutes. (Note: you can add more water if needed)\n
+Pour the evaporated milk. Stir, let boil, cover and cook for another 3 minutes\n
+Add salt and ground black pepper to taste\n
+Transfer to a serving bowl. Serve\n
+Share and enjoy\n
+    </string>
+
+
+    <string name="h">
+    Chicken Inasal
+</string>
+    <string name="h1">
+"5pcs chicken leg quarter
+
+For Marinade
+4tbsp Knorr Liquid Seasoning
+5thumbs ginger crushed
+6cloves garlic crushed
+1/2cup white vinegar
+2cups lemon or lime soda
+2stalks lemongrass
+
+For Basting Sauce
+1/2cup annatto seeds
+4tbsp cooking oil
+1/4tsp turmeric powder
+1/2cup margarine
+1/2pc lime"
+    </string>
+    <string name="h2">
+        Chop the lemongrass and crush. Combine all marinade ingredients in a large bowl. Stir and let it stay for 10 minutes\n
+Arrange chicken in large resealable bags. Use more bags if needed. Pour marinade into each bag equally. Push the air out of the bag and seal. Marinate overnight inside the refrigerator\n
+Prepare the basting sauce by making annatto oil. Combine annatto seeds and 4 tablespoons cooking oil in a saucepan. Heat and continue to cook until the oil sizzles. Turn the heat off and stir until the oil turns red. Filter the oil from the seed\n
+Combine annato oil with margarine, turmeric powder, and lime. You may also add some salt preferred\n
+Heat-up the grill. Start grilling the chicken pieces for 2 minutes, and then turnover to grill the opposite side\n
+        Brush basting sauce everytime the chicken is flipped. Do this using medium heat to prevent the skin from burning. If the heat is uncontrollable, remove skin before grilling to prevent it from burning. (Note: The chicken is cooked when the internal temperature is at least 165F)\n
+Arrange your chicken inasal on a plate and serve with your favorite dipping sauce. Share and enjoy\n
+    </string>
+
+
+    <string name="i">
+       Kalderetang Manok
+    </string>
+    <string name="i1">
+"2lbs chicken cut into pieces
+1pc Knorr Chicken Cube
+2pcs carrots wedged
+2pcs potato cubed
+8oz tomato sauce
+2pcs bell pepper sliced
+4tbsp liver spread
+1pc tomato cubed
+3pcs chili pepper chopped
+1pc onion chopped
+3cloves garlic crushed
+3tbsp cheddar cheese grated
+1and ½ cups water
+4tbsp cooking oil"
+
+    </string>
+    <string name="i2">
+Start by pan-frying the potato and carrots. Heat oil in a pan. Add potato. Fry each side for 1 minute. Remove from the pan and put in a bowl lined with paper towel. Set aside. Do the same thing with the carrots\n
+Using the remaining oil, fry the chicken for 1 ½ minutes per side. Remove from the pan. Set aside\n
+Saute onion and garlic. Add tomato. Continue to saute while stirring until tomato and onion softens\n
+Add chicken and pour-in tomato sauce and water. Let boil\n
+Stir and then add Knorr Chicken Cube and chili pepper. Cover the pan. Cook between low to medium heat for 15 minutes\n
+Turn the chicken pieces over to equally cook the opposite side. Add liver spread. Stir. Cover and cook for 20 minutes\n
+Add bell peppers and cheese. Cook for 3 minutes\n
+Put the carrots and potatoes into the pan. Continue to cook for 5 to 7 minutes\n
+Season with salt and ground black pepper\n
+        Serve. Share and enjoy\n
+    </string>
+
+
+    <string name="j">
+        Lechon Manok
+    </string>
+    <string name="j1">
+        "2to 3 lbs. whole chicken
+
+For Marinade
+4thumbs ginger crushed
+5cloves garlic crushed
+1medium red onion sliced
+5pcs dried bay leaves crumbled
+1stalk lemongrass bottom part crushed
+1tsp coarse sea salt
+1/4tsp ground black pepper
+1and ¾ cups 7-up
+
+For Stuffing
+1stalk crushed lemongrass tanglad
+2bunches of green onions dahon ng sibuyas"
+    </string>
+    <string name="j2">
+        In a large bowl, combine all the marinade ingredients. Mix well\n
+Place the chicken inside a large re-sealable bag. Pour the marinade in the bag with the chicken. Put the onion and lemongrass inside the cavity. Seal and refrigerate overnight\n
+Remove the chicken from the bag and then stuff with fresh lemongrass and green onion\n
+Prepare to roast the chicken on the grill by skewering the entire fowl on a spit and secure both sides with a grill fork\n
+Spit-roast (or i-litson in Tagalog) for 2 ½ to 3 hours or until the chicken is done\n
+Transfer to a serving plate. Serve with lechon manok sauce and atchara\n
+Share and enjoy\n
+    </string>
+
+
+    <string name="k">Pinaupong Manok</string>
+    <string name="k1">
+"1whole dressed chicken cleaned
+1bunch lemongrass
+1bunch leeks or green onions
+1/2tsp ground black pepper
+2to 3 cups coarse see salt
+banana leaf"
+</string>
+    <string name="k2">
+        Rub 3 tablespoons of salt and 1/2 teaspoon ground black pepper all over the chicken. Make sure that you also rub the seasonings in the chicken cavity for optimal flavor. Let it stay for 15 minutes\n
+Stuff the lemongrass and leeks inside the chicken\n
+Arrange the remaining salt on the cooking pot by spreading it to cover space\n
+Place the banana leaf on top of the salt\n
+Place the chicken over the banana leaf. Note: I use a small can of tomato sauce to help the chicken securely sit. Simply insert the can in the cavity\n
+Turn the heat on to medium and steam for 80 to 90 minutes\n
+Remove the chicken from the cooking pot and transfer to a serving plate\n
+Serve with a dipping sauce composed of fish sauce and lemon or calamansi\n
+Share and enjoy\n
+    </string>
+
+
+    <string name="l">
+        Adobong Manok na may Pinya
+    </string>
+    <string name="l1">
+"1kg chicken parts, cut into serving portions
+2tbsp crushed garlic
+3tbsp del monte red cane vinegar
+2tbsp soy sauce
+1/4 cup oil, for frying
+1pouch del monte pineapple tidbits (200g), drained, reserve syrup
+1/4cup crushed and fried garlic"
+    </string>
+    <string name="l2">
+        Marinate chicken for 30 minutes. Drain and reserve marinade\n
+Fry chicken in oil until golden brown\n
+Combine chicken with marinade then simmer until chicken is tender. Add del monte Pineapple Tidbits. Top with fried garlic\n
+Serve. Enjoy\n
+    </string>
+
+
+    <string name="n">
+    Sinampalukang Manok
+</string>
+    <string name="n1">
+"2lbs chicken cut into serving pieces
+3/4cups tamarind flower buds or tamarind leaves
+1large red onion
+4pcs long green pepper siding pansigang
+3thumbs ginger sliced
+4cloves garlic crushed
+1pc 20g Knorr Sinigang sa Sampaloc Mix, original
+1pc knorr Chicken Cube
+3tbsp fish sauce
+6cups water"
+    </string>
+
+    <string name="n2">
+        Heat cooking pot and then sear the chicken. Continue to cook until most of the chicken fat are extracted\n
+Remove the chicken from the pot. Set aside\n
+Using the extracted oil, sauce garlic, onion, and ginger\n
+Once the onion becomes soft, add the chicken back to the pot\n
+Pour water. Let boil. Seal the tamarind flower buds in a cheesecloth and tie using a kitchen twine\n
+Add the cheese cloth with tamarind flower buds in the pot. Stir\n
+Add Knorr chicken cube and long green pepper. Cover the pot. Cook in medium heat until the chicken gets tender\n
+Remove the tamarind flower buds. Add Knorr Singing Mix. Stir\n
+Add fish sauce. Cook for 5 minutes\n
+Transfer to a serving plate. Serve\n
+Share and enjoy\n
+    </string>
+
+    <!-->  END
+            END
+            END
+            END
+            END
+            END
+            END
+            </!-->
+
+
+    <string name="t2">
+        Sinigang na Baboy
+    </string>
+    <string name="e2">
+"2lbs pork belly or buto-buto
+1bunch spinach or kang-kong
+3tbsp fish sauce
+12pcs string beans sitaw, cut in 2 inch length
+2pcs tomato quartered
+3pcs chili or banana pepper
+1tbsp cooking oil
+2quarts water
+1pc onion sliced
+2pcs taro gabi, quartered
+1pack Sinigang Mix good for 2 liters water"
+
+    </string>
+    <string name="tr1">
+        Heat the pot and put-in the cooking oil\n
+Sauté the onion until its layers separate from each other\n
+Add the pork belly and cook until outer part turns light brown\n
+Put-in the fish sauce and mix with the ingredients\n
+Pour the water and bring to a boil\n
+Add the taro and tomatoes then simmer for 40 minutes or until pork is tender\n
+Put-in the sinigang mix and chili\n
+Add the string beans (and other vegetables if there are any) and simmer for 5 to 8 minutes\n
+Put-in the spinach, turn off the heat, and cover the pot. Let the spinach cook using the remaining heat in the pot\n
+Serve hot. Share and enjoy\n
+    </string>
+
+
+    <string name="a">
+        Bicol Express
+    </string>
+    <string name="a1">
+"1kg pork belly cut into cubes
+1cup finger chilies siling haba, sliced
+1cup string beans cut into 2-inch pcs
+4cloves garlic sliced
+1pc onion sliced
+4pcs red chili peppers chopped
+1tbsp ginger sliced
+2tbsp shrimp paste alamang
+salt and pepper to taste
+1and ½ cups coconut milk
+1cup coconut cream kakang gata
+1cup water
+1tbsp cooking oil"
+    </string>
+    <string name="a2">
+        In a preheated pan, heat cooking oil\n
+Add garlic, ginger, and onion. Sauté until fragrant\n
+Add pork. Cook while stirring occasionally until light brown\n
+Add shrimp paste. Stir and cook for about 2 minutes\n
+Add the coconut milk, water, and red chili peppers. Simmer for about 30 minutes or until pork is tender\n
+Add the coconut cream and simmer until the liquid thickens\n
+Add string beans and finger chilies. Cook while stirring regularly for about 2 minutes\n
+Season with salt and pepper. Stir well\n
+Remove from heat. Transfer to a serving bowl\n
+Serve while hot with steamed rice. Enjoy your Bicol Express\n
+    </string>
+
+
+    <string name="m">
+        Crispy Pork Bagnet
+    </string>
+    <string name="m1">
+"3lbs pork belly
+2tbsp white vinegar
+2tbsp salt
+2bunches lemongrass
+1tbsp whole peppercorn
+1onion
+8cups water
+6cloves garlic
+3pcs laurel leaves
+6cups cooking oil"
+</string>
+    <string name="m2">
+        Preheat oven to 175F\n
+Pour water into a pressure cooker. Add lemongrass, salt, whole peppercorn, and onion. Let boil\n
+Add pork belly. Boil for 3 minutes. Cover the pressure cooker. Cook for 15 minutes\n
+Let the pressure out completely Put the pork belly on a clean plate and let it cool-down for 10 minutes. Season the meat part with salt and ground black pepper. Turn it upside down and season the skin part with salt\n
+Wrap the sides of the pork with an aluminum foil and then rub vinegar on the skin part\n
+Bake it for 2 ½ hours to dehydrate the skin\n
+Remove the pork from the oven. Set aside\n
+Heat oil in a wide wok. Once the oil gets hot, add garlic and laurel leaves. Cook until the garlic floats. Remove the garlic and leaves afterwards using a strainer\n
+Arrange a slab of pork belly over a skimmer. Pour hot oil over it using a ladle. Do this step until a crackling texture is formed on the skin. Perform the same steps until all the pork are done\n
+Arrange on a serving plate. Serve with your favorite dipping sauce. Share and enjoy\n
+
+    </string>
+
+
+    <string name="o">
+        Creamy Pork and Mushrooms
+    </string>
+    <string name="o1">
+        "For Pork Chops
+5pcs large pieces pork shoulder chops, about 1” thick cut in half
+salt
+freshly ground black pepper
+oil
+
+For Creamy Mushroom Gravy
+3cups rich beef/pork stock
+250g button mushrooms, sliced
+1/2cup cream
+1/3cup flour
+1/3cup butter
+1pc white onion, finely chopped
+4cloves garlic, minced
+handful of parsley, chopped
+freshly ground black pepper
+salt
+oil"
+
+    </string>
+    <string name="o2">
+        In a heavy pan add oil then pan fry pork shoulder chops for 4-5 minutes on each side in medium heat until pork is cooked through.  Remove pork from the pan then set it aside\n
+Using the same pan, add and cook mushrooms for 2 minutes, remove from the pan then set it aside\n
+Add the butter and melt in low heat. Sauté garlic and onions until onions are soft\n
+Add flour then cook until it forms a roux\n
+Gradually add 3 cups of beef stock while continuously mixing\n
+Add cream, continue to cook until it becomes a smooth sauce\n
+Add the mushrooms and the pork back into the pan then simmer in low heat of for 5 minutes. Season with salt and freshly ground black pepper\n
+Remove from heat, garnish with chopped parsley, let it stand for 5 minutes to let the mushroom sauce to penetrate into the pork chops then serve\n
+
+    </string>
+
+
+    <string name="p">Dinakdakang Baboy</string>
+    <string name="p1">
+"2lbs. liempo pork belly
+1/2cup Lady’s Choice Mayonnaise
+3tbsp Knorr Liquid Seasoning
+2to 3 pcs lime or 5 to 6 pieces calamansi
+2pcs red onion sliced into thin pieces
+10pcs Thai chili peppers chopped
+3pcs long green pepper sliced
+1tsp onion powder optional
+salt and ground black pepper to taste
+1and ½ quarts water"
+</string>
+    <string name="p2">
+        Boil water in a cooking pot\n
+Add pork belly. Cover and continue to boil in medium heat for 30 to 35 minutes\n
+Remove the pork belly from the pot. Let it cool. Note: you may use the pork stock (water used to boil liempo) to cook other dishes\n
+Rub 1 teaspoon salt and ½ teaspoon ground black pepper over the pork belly. Let it stay for 10 minutes\n
+Heat-up the grill. Grill each side for a total of 6 minutes. Note: I usually grill one side for 2 minutes, turn the belly over and grill the opposite side for the same time. The process is repeated 2 to 3 times. This will prevent the pork belly from being burnt\n
+Slice the pork belly into thin pieces and arrange in a large mixing bowl\n
+Prepare the dressing by combining mayonnaise, Knorr Liquid Seasoning, lime juice, and onion powder in a small bowl. Stir until well blended. Set aside\n
+Put the onion and chili peppers on the bowl with the sliced pork belly. Toss\n
+Add the dressing. Continue to toss until well blended. Add Salt and pepper to taste\n
+Transfer to a serving bowl. Serve\n
+Share and enjoy\n
+
+    </string>
+
+
+    <string name="q">
+        Dinuguang Baboy
+    </string>
+    <string name="q1">
+"2lbs pork shoulder cubed
+1and 1/4 cups pork blood
+1pc Knorr Pork Cube
+4pcs long peppers
+2pcs onion chopped
+6cloves garlic minced
+2cups water
+3/4cup white vinegar
+3pcs dried bay leaves
+3tbsp cooking oil
+1tbsp granulated white sugar
+salt and ground black pepper to taste"
+    </string>
+    <string name="q2">
+        Heat oil in a cooking pot
+Saute onion for 30 seconds. Add garlic. Continue to cook until onion softens\n
+Add pork. Saute for 3 to 5 minutes\n
+Pour water. Let boil. Add bay leaves and vinegar. Let the liquid re-boil\n
+Add Knorr Pork Cube. Stir. Cover and simmer for 1 hour. Note: add water as needed\n
+Add long green peppers and pour pork blood into the pot. Stir. Continue to cook between low to medium heat for 15 minutes while stirring every 3 minutes\n
+Add sugar and season with salt and ground black pepper\n
+Transfer to a serving bowl. Enjoy\n
+    </string>
+
+
+    <string name="r">
+     Kare-Kare ala Bagnet
+    </string>
+    <string name="r1">
+"4lbs. pork belly
+5cups water
+3tbsp salt
+3cups cooking oil
+1/2cup bagoong alamang
+2bunches pechay
+1pc eggplant sliced
+12pcs string beans
+1cup banana blossoms sliced
+
+For Kare-Kare Sauce
+2 cups roasted peanuts
+1 piece Knorr Pork Cube
+1/2 cup annatto seeds
+1 piece onion chopped
+3 cloves garlic minced
+1 ½ tablespoons toasted rice powder
+2 cups water
+3 tablespoons cooking oil"
+
+
+</string>
+    <string name="r2">
+        Prepare the pork. Boil water in a large cooking pot. Add pork. Continue boiling for 35 minutes. Remove the pork from the pot and let it cook down. Rub salt all over and let it stay for 5 minutes\n
+Heat oil in a large pan. Once the oil gets really hot, fry the pork belly (skin side down). Note: BE CAREFUL! Splash 1 1/2 tablespoons of water on the oil every 3 minutes or until the skin gets golden brown and very crispy\n
+Flip the pork and continue frying until the opposite side turns golden brown. Remove pork from the cooking pot and place it over a wire rack to let the excess oil drip. Set aside\n
+Start to make the sauce. Grind the peanuts using a food processor until the texture becomes paste-like. Set aside\n
+Make annatto water by soaking annatto seeds in hot water for 5 minutes. Constantly stir until the water turns deep orange. Filter the water using a kitchen strainer. You may discard the seeds afterwards. Set aside\n
+      Heat oil in a pan. Saute garlic and onion. Once the onion softens, add the peanut paste. Stir and cook for 1 minute\n
+Pour water and then stir until the mixture becomes smooth. Let the liquid boil\n
+Add Knorr Pork Cube and annatto water. Cover and continue cooking for 3 minutes. Remove the cover and cook until the mixture reduces to your desired consistency. Add toasted rice powder. Mix well. Turn off the heat. Make sure to cover the pot to keep the sauce warm\n
+Cook the vegetables by steaming. Arrange string bean, banana blossom, and eggplant on a steamer. Steam for 5 minutes. Add pechay and continue steaming for 2 to 3 minutes\n
+Assemble your crispy kare-kare by combining the sauce, steamed vegetables, and crispy pork in one plate. Serve with rice and bagoong alamang. Share and enjoy\n
+
+    </string>
+
+
+    <string name="s">
+        Lechon Paksiw
+    </string>
+    <string name="s1">
+"2lbs roasted pork preferably leftovers
+3laurel leaves
+salt to taste
+
+For Lechon Sauce
+5oz pork liver sliced
+1Knorr Pork cube
+5tbsp white vinegar
+7tbsp dark brown sugar
+1/2tsp ground black pepper
+1onion, chopped
+1head garlic, crushed
+2and ½ cups water
+1tbsp soy sauce
+3tbsp breadcrumbs
+3tsbp cooking oil"
+    </string>
+    <string name="s2">
+        Heat oil in a pan. Add the pork liver. Fry until color turns brown\n
+Remove the liver from the pot and place inside the blender. Add water. Puree the mixture. Set aside\n
+Using the remaining oil, sauté garlic and onion until the latter softens\n
+Pour the liver puree. Let boil\n
+Add Knorr Pork Cube, soy sauce, vinegar, and ground black pepper. Let the mixture boil. Stir\n
+Add brown sugar and breadcrumbs. Turn the heat off and pour the entire mixture back into the blender. Puree for 1 minute\n
+Pour the puree back into the cooking pot. Let it boil\n
+Add laurel leaves and roasted pork. Cover the pan. Continue cooking in a low heat setting for 40 minutes\n
+Season with salt as needed\n
+Transfer to a serving bowl. Serve warm. Share and enjoy with rice\n
+    </string>
+
+
+    <string name="u">
+        Binagoongang Baboy
+    </string>
+    <string name="u1">
+        "2lbs pork belly cut into cubes
+2pcs tomato cubed
+1pc Chinese eggplant sliced
+3and ½ cups pork stock
+3tbsp white vinegar
+4tbsp bagoong alamang
+1pc onion chopped
+3cloves garlic chopped
+2tsp granulated white sugar
+1/8tsp ground black pepper
+3tbsp cooking oil"
+    </string>
+    <string name="u2">
+        Heat oil in a cooking pot\n
+Saute onion, garlic, and tomato. Once the onion becomes soft, add the pork belly. Cook until the belly turns light brown\n
+Add shrimp paste (bagoong alamang). Stir. Cook for 5 minutes\n
+Pour vinegar. Let the mixture boil. Stir and cook for 2 minutes\n
+Pour the pork stock into the pot. Cover and let boil. Adjust the heat to medium and continue to cook for 40 minutes or until the pork gets tender. (Note: add water or pork stock as needed)\n
+Add eggplant. Stir. Cover the pot and cook for 3 minutes\n
+Season with sugar and ground black pepper\n
+Transfer to a serving plate. Serve. Share and enjoy\n
+    </string>
+
+
+    <string name="v">
+        Sisig Kapampangan
+    </string>
+    <string name="v1">
+"1and ½lbs pork belly boiled for 1 hour
+1/2cup Lady’s Choice Mayonnaise
+2pcs onion chopped
+4pcs Thai chili pepper chopped
+2pcs long green pepper chopped
+16g Knorr SavorRich Pork equivalent to 1 sachet
+1/2tsp ground black pepper
+2tbsp soy sauce
+1/4cup margarine
+2cups cooking oil"
+
+    </string>
+    <string name="v2">
+        Heat oil in a deep cooking pot or deep fryer. Fry the boiled pork belly until golden brown and crispy. Chop the crispy pork belly into small pieces. Set aside\n
+Heat half of the margarine in a pan. Sauté half of the onions until soft. Add chopped pork. Saute for 30 seconds\n
+Add Knorr SavorRich. Stir and then add chili peppers and season with ground black pepper and soy sauce. Cook for 1 minute\n
+Add Lady’s Choice Mayonnaise. Stir and add remaining onion. Set aside\n
+Heat a metal plate (sizzling plate) on a stovetop. Melt remaining margarine. Transfer the crispy pork sisig into the metal plate. Let it stay for 30 seconds\n
+Serve with warm rice and your favorite beverage. Enjoy\n
+    </string>
+
+
+    <string name="w">
+        Menudong Baboy
+    </string>
+    <string name="w1">
+"2lbs pork
+1/4lb pig liver
+1cup potatoes diced
+1pc carrot cubed
+1/2cup soy sauce
+1/2pc lemon
+1pc onion chopped
+3cloves garlic minced
+1tsp sugar
+3/4cup tomato sauce
+1cup water
+4pcs hotdogs sliced diagonally
+2tbsp cooking oil
+2to 3 pcs dried bay leaves
+salt and pepper to taste"
+
+    </string>
+    <string name="w2">
+        Combine pork, soysauce, and lemon in a bowl. Marinate for at least 1 hour\n
+Heat oil in a pan. Saute garlic and onion\n
+Add the marinated pork. Cook for 5 to 7 minutes\n
+Pour in tomato sauce and water and then add the bay leaves.Let boil and simmer for 30 minutes to an hour depending on the toughness of the pork. Note: Add water as necessary\n
+Add-in the liver and hot dogs.Cook for 5 minutes\n
+Put-in potatoes, carrots, sugar,salt, and pepper. Stir and cook for 8 to 12 minutes\n
+Serve. Share and enjoy\n
+
+    </string>
+
+
+    <string name="x">
+        Pork Humba
+    </string>
+    <string name="x1">
+"4lbs pork belly cubed
+1pc Knorr Pork Cube
+3cups clear soft drink
+1cup water as needed
+2oz banana blossoms
+2tbsp salted black beans
+3tbsp white vinegar
+1/2cup soy sauce
+1pc onion chopped
+2tbsp brown sugar
+6cloves garlic crushed and chopped
+1/2tsp crushed peppercorn"
+
+    </string>
+    <string name="x2">
+        Heat a wok or pan. Sear pork belly until it turns brown and enough oil gets extracted from the fat. Remove the pork from the wok. Set aside\n
+Heat around 3 tablespoons of oil. Sauté garlic and onion until the onion softens\n
+Add the pork back into the wok and pour-in soy sauce. Sauté for 1 minute\n
+Add vinegar. Continue sautéing until liquid dries-up\n
+Pour clear soft drinks into the wok. Cover and let boil\n
+Add crushed peppercorn. Adjust heat to low. Continue boiling for 35 minutes\n
+Add banana blossoms and salted black beans. Cover the wok and continue cooking until the pork gets tender. Note: you can add water if needed\n
+Add brown sugar. Stir. Cook for 1 minute\n
+Transfer to a serving plate. Serve with warm rice\n
+Share and enjoy\n
+
+    </string>
+
+
+    <string name="open" />
+    <string name="close" />
+    <string name="logout" />
+
+
+</resources>

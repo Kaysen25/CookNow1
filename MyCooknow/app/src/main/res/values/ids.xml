@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="createNewAccount" type="id" />
+    <item name="createnewAccount" type="id" />
+    <item name="recylerView" type="id" />
+    <item name="mRecyclerView" type="id" />
+</resources>

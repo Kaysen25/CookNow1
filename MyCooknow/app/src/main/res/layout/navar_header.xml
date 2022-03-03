@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="200dp">
+
+    <ImageView
+        android:background="@drawable/ic_logo2"
+        android:layout_width="120dp"
+        android:layout_height="120dp"/>
+    <TextView
+        android:layout_marginTop="10dp"
+        android:fontFamily="serif"
+        android:textSize="22sp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="CookNow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
